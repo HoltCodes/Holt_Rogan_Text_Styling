@@ -1,0 +1,28 @@
+* {
+  margin: 1px auto;
+}
+
+h1 {
+  background: black;
+  font-style: oblique;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+h1 span {
+  color: cornflowerblue;
+}
+h2 {
+  background-color: purple;
+  text-align: center;
+  font-style: italic;
+  color: white;
+}
+
+h3 {
+  background: cornflowerblue;
+  color: purple;
+  text-decoration: underline;
+  text-align: right;
+  font-family: fantasy;
+  font-weight: 100;
+}
